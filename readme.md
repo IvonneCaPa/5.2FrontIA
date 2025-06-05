@@ -1,0 +1,4 @@
+# Descripción del modelo IA seleccionado y el motivo de su elección
+Para este proyecto la IA que se utilizará es [Claude](https://claude.ai/new), puede que algunas respuestas o no las entienda o no este conforme, para estos casos utilizaré otras 2 IA's para asegurarme de cual es la mejor alternativa para continuar, además como las versiones gratuitas tienen limitaciones, quiero tener otras opciones a las cuales acudir y poder continuar con el proyecto. Las otras opciones son: [gemini](https://gemini.google.com/app) y [Monica](https://monica.im/home/chat).
+
+🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛
